@@ -56,5 +56,6 @@ A very basic example showcasing the use of go module and struct for OOP in Golan
 	
 	
 ## Questions?
-	Feel free to open a new issue and I will add your Q&A into the README.md file.
+
+Feel free to open a new issue and I will add your Q&A into the README.md file.
 	
